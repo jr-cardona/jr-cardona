@@ -4,7 +4,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I'm fullstack software developer with more than 3 years of experience in the creation and maintenance of applications and web tools. I am passionate about writing clean and maintainable code adhering to the TDD methodology, SOLID principles and OOP-based design patterns. I enjoy learning and sharing knowledge with others.
+Full stack software engineer with 5+ years of experience. Certified Senior Laravel Developer with expertise in PHP, contributing to various aspects of web development projects, from planning and design to coding, testing, and deployment. Strong problem-solving and debugging skills, detail-oriented, and committed to continuous learning and professional development.
 
 ---
 
